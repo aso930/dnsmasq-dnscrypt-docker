@@ -6,7 +6,7 @@ One would want to do this if they want to make encrypted DNS queries, and cache 
 
 To run this container you can build it using docker.
 
-```docker build -t alexaso/dnsmasq-dnscrypt-server .```
+```docker build -t dnsmasq-dnscrypt-server .```
 
 Or you can just pull it from the docker hub.
 
